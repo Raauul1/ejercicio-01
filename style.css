@@ -1,0 +1,14 @@
+body{
+    background-color: crimson;
+}
+h1{
+
+    font-family: Papyrus;
+    color: chartreuse;
+    text-align: center;
+}
+div , li , ol{
+    font-family: Papyrus;
+    color: chartreuse;
+    text-align: center;
+}
